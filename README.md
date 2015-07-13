@@ -15,7 +15,7 @@ pip install codecov
 codecov --token=<repo token>
 ```
 
-## Require min coverage
+## Require min coverages
 ```sh
 codecov --min-coverage=75
 ```
